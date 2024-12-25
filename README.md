@@ -1,0 +1,1 @@
+You know that bytetrack's source code is a hassle to install, but you can actually rewrite parts of it to achieve exactly the same functionality. This project rewrites complex dependencies in numpy and scipy to achieve consistent functionality
